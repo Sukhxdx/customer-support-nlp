@@ -4,7 +4,9 @@ An end-to-end **Natural Language Processing (NLP)** project that classifies cust
 
 This project fulfills **Machine Learning Internship Project 3: NLP for Customer Support**, using only local ML techniques with no paid APIs or external keys.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://sukhxdx-customer-support-nlp-app-fvlufn.streamlit.app)
+
+**Live demo:** [https://sukhxdx-customer-support-nlp-app-fvlufn.streamlit.app](https://sukhxdx-customer-support-nlp-app-fvlufn.streamlit.app)
 
 ---
 
@@ -184,6 +186,8 @@ jupyter notebook notebooks/analysis_and_model_training.ipynb
 
 ## Deploy to Streamlit Community Cloud
 
+**Live app:** [https://sukhxdx-customer-support-nlp-app-fvlufn.streamlit.app](https://sukhxdx-customer-support-nlp-app-fvlufn.streamlit.app)
+
 No secrets, API keys, or manual model upload required.
 
 1. Push this repository to GitHub (ensure `data/customer_support_tickets.csv` is committed).
@@ -196,6 +200,7 @@ The app will install dependencies from `requirements.txt`, then auto-train the m
 
 | Setting | Value |
 |---------|-------|
+| Live URL | [sukhxdx-customer-support-nlp-app-fvlufn.streamlit.app](https://sukhxdx-customer-support-nlp-app-fvlufn.streamlit.app) |
 | Repository | `Sukhxdx/customer-support-nlp` |
 | Branch | `main` |
 | Main file path | `app.py` |
