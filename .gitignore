@@ -45,5 +45,5 @@ reports/figures/*.png
 reports/figures/*.jpg
 !reports/figures/.gitkeep
 
-# Streamlit logs
-logs/
+# Generated submission archive (upload to Google Drive)
+customer-support-nlp-submission.zip
