@@ -132,7 +132,7 @@ customer-support-nlp/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/customer-support-nlp.git
+git clone https://github.com/Sukhxdx/customer-support-nlp.git
 cd customer-support-nlp
 ```
 
@@ -196,7 +196,7 @@ The app will install dependencies from `requirements.txt`, then auto-train the m
 
 | Setting | Value |
 |---------|-------|
-| Repository | `YOUR_USERNAME/customer-support-nlp` |
+| Repository | `Sukhxdx/customer-support-nlp` |
 | Branch | `main` |
 | Main file path | `app.py` |
 | Python version | 3.9 – 3.11 |
