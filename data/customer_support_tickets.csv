@@ -1,0 +1,501 @@
+ticket_id,customer_message,category,priority
+TKT-1238,I received duplicate items in my order by mistake This is very disappointing.,Order Issue,Medium
+TKT-1634,My account PIN was locked need assistance unlocking,Account/Login Issue,High
+TKT-1046,I need a payment receipt for my recent purchase. Please help urgently.,Payment Issue,Medium
+TKT-1230,My order contains expired products inside the package,Order Issue,Low
+TKT-1054,I tried paying three times and got charged three times,Payment Issue,Low
+TKT-1073,My account shows payment due even though I already paid,Payment Issue,Medium
+TKT-1566,The two factor authentication code is not working This is very disappointing.,Account/Login Issue,High
+TKT-1375,My refund request was rejected without proper explanation,Refund Request,High
+TKT-1075,The payment was deducted in USD instead of INR,Payment Issue,Low
+TKT-1584,My account email was changed without my permission. Please help urgently.,Account/Login Issue,High
+TKT-1755,The product quality is very poor and not as described This is very disappointing.,Product/Service Complaint,Low
+TKT-1767,The product manual is missing and setup is impossible This is very disappointing.,Product/Service Complaint,High
+TKT-1093,I paid through phonepe but transaction is not showing in orders,Payment Issue,High
+TKT-1381,I want a refund for wrong item sent in my order This is very disappointing.,Refund Request,High
+TKT-1831,The item arrived with insect inside sealed packaging,Product/Service Complaint,High
+TKT-1060,Payment deducted for wrong order ID by mistake,Payment Issue,Medium
+TKT-1619,The biometric login on app is not recognizing my fingerprint,Account/Login Issue,Medium
+TKT-1237,I received duplicate items in my order by mistake. Please help urgently.,Order Issue,Medium
+TKT-1376,I cancelled my order within one hour please refund my payment,Refund Request,Low
+TKT-1417,I returned item within return window but refund delayed. Please help urgently.,Refund Request,High
+TKT-1795,The product remote control stopped working on day one,Product/Service Complaint,Low
+TKT-1571,My username is not recognized on the login page. Please help urgently.,Account/Login Issue,Low
+TKT-1455,I need refund for warranty replacement that never arrived This is very disappointing.,Refund Request,High
+TKT-1640,I cannot verify phone number OTP says invalid code This is very disappointing.,Account/Login Issue,High
+TKT-1008,I received a payment confirmation but no order was created,Payment Issue,Medium
+TKT-1814,The product charger gets extremely hot while charging,Product/Service Complaint,Medium
+TKT-1415,The product description was misleading I want full refund,Refund Request,Medium
+TKT-1394,I returned product in original packaging but refund denied,Refund Request,High
+TKT-1411,Please process refund for order delivered to wrong address. Please help urgently.,Refund Request,Medium
+TKT-1377,"Hi, i cancelled my order within one hour please refund my payment",Refund Request,Low
+TKT-1203,My order shows out for delivery since yesterday,Order Issue,Low
+TKT-1236,I received duplicate items in my order by mistake,Order Issue,Medium
+TKT-1389,My refund to original payment method is taking too long,Refund Request,High
+TKT-1042,I was charged for a cancelled subscription renewal,Payment Issue,Medium
+TKT-1444,Please process refund for trial converted to paid without notice,Refund Request,Medium
+TKT-1022,"Hi, payment gateway timed out but amount was deducted",Payment Issue,Low
+TKT-1786,My complaint ticket was closed without any solution offered,Product/Service Complaint,Low
+TKT-1069,Why is my payment still pending after 24 hours,Payment Issue,Medium
+TKT-1393,Please refund the extra amount charged on my order This is very disappointing.,Refund Request,Medium
+TKT-1225,The order tracking shows in transit for two weeks. Please help urgently.,Order Issue,High
+TKT-1620,I cannot access order history after password change,Account/Login Issue,High
+TKT-1383,My return was accepted but refund status shows pending,Refund Request,Medium
+TKT-1228,I want to know estimated delivery for backordered item,Order Issue,Medium
+TKT-1251,My pre order item release date was changed without notice This is very disappointing.,Order Issue,Low
+TKT-1648,I want to change registered mobile number without old OTP,Account/Login Issue,High
+TKT-1213,"Hi, my order ID 45231 is not showing in order history",Order Issue,Low
+TKT-1215,I placed order for blue color but received red instead,Order Issue,Medium
+TKT-1577,My account verification document was rejected please help. Please help urgently.,Account/Login Issue,Medium
+TKT-1249,My pre order item release date was changed without notice. Please help urgently.,Order Issue,Low
+TKT-1244,The order shows delivered but security did not receive it. Please help urgently.,Order Issue,High
+TKT-1089,I was charged late payment fee even though I paid on time. Please help urgently.,Payment Issue,High
+TKT-1097,I need help with payment reconciliation for corporate account,Payment Issue,Medium
+TKT-1791,"Hi, the product color fades after first wash completely",Product/Service Complaint,Low
+TKT-1554,I forgot my password and cannot login to my account This is very disappointing.,Account/Login Issue,Low
+TKT-1051,Bank statement shows debit but your app shows payment pending,Payment Issue,High
+TKT-1273,I need to merge two separate orders into one shipment,Order Issue,Medium
+TKT-1463,The item was damaged in return transit I want my refund anyway,Refund Request,High
+TKT-1205,I received someone else order at my address,Order Issue,Medium
+TKT-1194,My express order is taking longer than standard delivery. Please help urgently.,Order Issue,Low
+TKT-1609,"Hi, i cannot link my payment method to account profile",Account/Login Issue,Low
+TKT-1254,My order delivery window was missed without any call,Order Issue,Low
+TKT-1621,I cannot access order history after password change. Please help urgently.,Account/Login Issue,High
+TKT-1038,The auto debit for my subscription happened twice this month,Payment Issue,Low
+TKT-1234,The order status changed from shipped to cancelled suddenly,Order Issue,High
+TKT-1005,I was charged twice for the same order on my credit card,Payment Issue,Medium
+TKT-1094,My saved card was charged for someone else order,Payment Issue,Low
+TKT-1555,My account has been locked after multiple failed login attempts,Account/Login Issue,Medium
+TKT-1262,The order was picked up by wrong person at doorstep. Please help urgently.,Order Issue,High
+TKT-1625,I cannot login from abroad due to region restriction,Account/Login Issue,Low
+TKT-1805,The service hotline wait time exceeds one hour every call,Product/Service Complaint,Low
+TKT-1095,My saved card was charged for someone else order. Please help urgently.,Payment Issue,Low
+TKT-1820,Your product safety certification badge seems questionable,Product/Service Complaint,Medium
+TKT-1458,Please refund amount for order cancelled during processing,Refund Request,High
+TKT-1591,My account shows wrong name and delivery address This is very disappointing.,Account/Login Issue,Low
+TKT-1759,Your service response time is extremely slow and frustrating,Product/Service Complaint,Medium
+TKT-1760,Your service response time is extremely slow and frustrating. Please help urgently.,Product/Service Complaint,Medium
+TKT-1261,The order was picked up by wrong person at doorstep,Order Issue,High
+TKT-1585,I need admin access to manage team member accounts,Account/Login Issue,Low
+TKT-1379,I want a refund for wrong item sent in my order,Refund Request,High
+TKT-1201,The delivery date keeps getting postponed every day This is very disappointing.,Order Issue,Medium
+TKT-1012,"Hi, my card was charged but I got an error during checkout",Payment Issue,Low
+TKT-1007,My UPI payment went through but order status shows pending,Payment Issue,Low
+TKT-1794,The service center refused to accept valid warranty claim,Product/Service Complaint,High
+TKT-1412,My refund was approved but amount is still on hold,Refund Request,High
+TKT-1647,My account language settings reset after every login,Account/Login Issue,Medium
+TKT-1777,The service appointment was rescheduled three times already,Product/Service Complaint,Medium
+TKT-1596,I cannot register new account says email already exists. Please help urgently.,Account/Login Issue,Medium
+TKT-1090,I was charged late payment fee even though I paid on time This is very disappointing.,Payment Issue,High
+TKT-1778,The service appointment was rescheduled three times already. Please help urgently.,Product/Service Complaint,Medium
+TKT-1027,I paid through EMI but order shows as unpaid. Please help urgently.,Payment Issue,Medium
+TKT-1078,The payment was deducted in USD instead of INR This is very disappointing.,Payment Issue,Low
+TKT-1258,My order for birthday gift will miss the event date,Order Issue,Low
+TKT-1428,My refund case was closed without resolving the issue,Refund Request,Medium
+TKT-1373,The item was defective and I need my money back immediately,Refund Request,Medium
+TKT-1256,I want to know why my order is on hold. Please help urgently.,Order Issue,Medium
+TKT-1096,"Hi, my saved card was charged for someone else order",Payment Issue,Low
+TKT-1174,My order is delayed since 5 days with no update,Order Issue,Low
+TKT-1771,I am disappointed with build quality of expensive item,Product/Service Complaint,Low
+TKT-1645,I cannot access wallet balance after account merge attempt. Please help urgently.,Account/Login Issue,Low
+TKT-1229,The order was delivered to office but nobody was there to receive,Order Issue,High
+TKT-1396,"Hi, my refund request reference number RF8834 has no updates",Refund Request,Low
+TKT-1613,I cannot complete KYC verification on my account,Account/Login Issue,Medium
+TKT-1403,My refund to wallet was done but I want it in bank account,Refund Request,Low
+TKT-1604,My child account login is blocked need parental reset,Account/Login Issue,Low
+TKT-1086,"Hi, i need to update payment after failed transaction attempt",Payment Issue,Low
+TKT-1574,The password reset link has expired before I could use it,Account/Login Issue,High
+TKT-1245,My same day delivery order arrived two days late,Order Issue,Low
+TKT-1644,I cannot access wallet balance after account merge attempt,Account/Login Issue,Low
+TKT-1227,My gift order arrived without gift wrapping as requested,Order Issue,Low
+TKT-1564,The two factor authentication code is not working,Account/Login Issue,High
+TKT-1039,The auto debit for my subscription happened twice this month. Please help urgently.,Payment Issue,Low
+TKT-1643,The password I set is not being accepted at login,Account/Login Issue,High
+TKT-1070,I paid using gift card and credit card but only gift card was applied,Payment Issue,High
+TKT-1180,The tracking number shows delivered but I did not receive anything,Order Issue,Low
+TKT-1599,"Hi, i want to download all personal data from my account",Account/Login Issue,Low
+TKT-1841,Your complaint form submission fails with unknown error This is very disappointing.,Product/Service Complaint,High
+TKT-1780,The product software crashes every time I open it,Product/Service Complaint,High
+TKT-1232,"Hi, my order contains expired products inside the package",Order Issue,Low
+TKT-1032,The invoice amount does not match what I paid online,Payment Issue,Medium
+TKT-1410,Please process refund for order delivered to wrong address,Refund Request,Medium
+TKT-1009,I received a payment confirmation but no order was created. Please help urgently.,Payment Issue,Medium
+TKT-1433,"Hi, the returned product was lost in transit I still want refund",Refund Request,Low
+TKT-1837,"Hi, the service warranty inspection report was inaccurate",Product/Service Complaint,Low
+TKT-1399,The refund was processed but not reflected in my bank account. Please help urgently.,Refund Request,High
+TKT-1427,I want refund for perishable goods that arrived spoiled,Refund Request,Low
+TKT-1753,The product quality is very poor and not as described. Please help urgently.,Product/Service Complaint,Low
+TKT-1457,I want refund for product missing safety certification,Refund Request,Medium
+TKT-1272,My order was delayed due to weather but no communication sent,Order Issue,Low
+TKT-1206,The order was returned to sender without contacting me,Order Issue,High
+TKT-1575,I cannot access my account from new laptop device,Account/Login Issue,Low
+TKT-1573,I need to merge two accounts into one profile,Account/Login Issue,Medium
+TKT-1003,"Hi, my payment was deducted but order is not confirmed",Payment Issue,Low
+TKT-1019,I see a pending charge on my statement for an incomplete order,Payment Issue,High
+TKT-1840,Your complaint form submission fails with unknown error. Please help urgently.,Product/Service Complaint,High
+TKT-1429,My refund case was closed without resolving the issue. Please help urgently.,Refund Request,Medium
+TKT-1077,"Hi, the payment was deducted in USD instead of INR",Payment Issue,Low
+TKT-1419,Please refund cancellation fee charged incorrectly,Refund Request,Low
+TKT-1565,The two factor authentication code is not working. Please help urgently.,Account/Login Issue,High
+TKT-1602,I cannot access premium features despite active subscription. Please help urgently.,Account/Login Issue,High
+TKT-1823,The product Bluetooth pairing fails with all my devices,Product/Service Complaint,Low
+TKT-1217,My order is showing as processing for ten days now,Order Issue,Low
+TKT-1801,The product packaging was eco friendly claim but excessive plastic,Product/Service Complaint,Medium
+TKT-1067,Payment through Google Pay completed but order was not created,Payment Issue,Low
+TKT-1253,The order was shipped to my old address despite update,Order Issue,High
+TKT-1207,The order was returned to sender without contacting me. Please help urgently.,Order Issue,High
+TKT-1218,I need to cancel my order before it gets dispatched,Order Issue,Medium
+TKT-1758,The product arrived with scratches and dents all over,Product/Service Complaint,Low
+TKT-1446,I need refund for bulk order where half items were defective,Refund Request,Low
+TKT-1435,Please refund handling charges for cancelled order,Refund Request,High
+TKT-1818,The item fabric quality is terrible for the price paid,Product/Service Complaint,Low
+TKT-1374,The item was defective and I need my money back immediately. Please help urgently.,Refund Request,Medium
+TKT-1219,I need to cancel my order before it gets dispatched. Please help urgently.,Order Issue,Medium
+TKT-1784,The product dimensions are wrong and do not fit my space,Product/Service Complaint,High
+TKT-1443,I want refund for booking cancelled within free cancellation period This is very disappointing.,Refund Request,Low
+TKT-1592,I cannot login because captcha verification keeps failing,Account/Login Issue,Medium
+TKT-1817,The service level agreement was violated multiple times,Product/Service Complaint,High
+TKT-1568,I want to recover my deleted account and order history,Account/Login Issue,Medium
+TKT-1018,My net banking payment was successful but order not placed,Payment Issue,Medium
+TKT-1800,"Hi, the service repair took one month and issue returned immediately",Product/Service Complaint,Low
+TKT-1021,Payment gateway timed out but amount was deducted. Please help urgently.,Payment Issue,Low
+TKT-1204,"Hi, my order shows out for delivery since yesterday",Order Issue,Low
+TKT-1404,My refund to wallet was done but I want it in bank account. Please help urgently.,Refund Request,Low
+TKT-1462,I need refund for course access that expired immediately,Refund Request,Medium
+TKT-1452,My return label was used but refund not triggered,Refund Request,Medium
+TKT-1587,I forgot both email and password used for registration,Account/Login Issue,High
+TKT-1551,I forgot my password and cannot login to my account,Account/Login Issue,Low
+TKT-1223,I received partial order rest items are still pending,Order Issue,Medium
+TKT-1369,I want a refund for my damaged product received yesterday This is very disappointing.,Refund Request,Low
+TKT-1638,I cannot verify phone number OTP says invalid code,Account/Login Issue,High
+TKT-1649,The login page shows maintenance but friends can access,Account/Login Issue,Low
+TKT-1264,My bulk order was partially accepted and rest rejected,Order Issue,Low
+TKT-1367,I want a refund for my damaged product received yesterday. Please help urgently.,Refund Request,Low
+TKT-1770,The service technician arrived without proper tools,Product/Service Complaint,High
+TKT-1015,I was billed for an item I removed from my cart. Please help urgently.,Payment Issue,High
+TKT-1056,My international card payment was declined without reason,Payment Issue,High
+TKT-1076,The payment was deducted in USD instead of INR. Please help urgently.,Payment Issue,Low
+TKT-1450,Please refund loyalty points used along with cash payment,Refund Request,Low
+TKT-1040,"Hi, the auto debit for my subscription happened twice this month",Payment Issue,Low
+TKT-1642,I need help recovering account for deceased family member,Account/Login Issue,Medium
+TKT-1812,The product screen has dead pixels right out of box,Product/Service Complaint,High
+TKT-1423,The refund email said seven days but it has been twenty. Please help urgently.,Refund Request,Low
+TKT-1252,I received damaged box and need order inspection,Order Issue,Medium
+TKT-1378,The refund amount credited is less than what I paid,Refund Request,Medium
+TKT-1824,I am frustrated with recurring defect in replacement units,Product/Service Complaint,Medium
+TKT-1772,I am disappointed with build quality of expensive item. Please help urgently.,Product/Service Complaint,Low
+TKT-1068,"Hi, payment through Google Pay completed but order was not created",Payment Issue,Low
+TKT-1100,My payment proof was rejected without any explanation,Payment Issue,Medium
+TKT-1828,"Hi, the product motor makes grinding sound from first use",Product/Service Complaint,Low
+TKT-1098,The payment gateway showed error 500 but money was deducted,Payment Issue,High
+TKT-1270,I received order with broken seal and tampered packaging,Order Issue,Medium
+TKT-1590,"Hi, my account shows wrong name and delivery address",Account/Login Issue,Low
+TKT-1454,I need refund for warranty replacement that never arrived. Please help urgently.,Refund Request,High
+TKT-1569,I cannot login using Google sign in option anymore,Account/Login Issue,High
+TKT-1809,The item leaks water all over my floor when used. Please help urgently.,Product/Service Complaint,Low
+TKT-1198,My order split into two shipments and one is still missing,Order Issue,Low
+TKT-1408,The return pickup was completed but refund not initiated,Refund Request,High
+TKT-1043,My refund was processed but the original charge is still showing,Payment Issue,High
+TKT-1061,I need help reversing an unauthorized payment on my account,Payment Issue,High
+TKT-1266,The order shows ready to ship but no movement for days,Order Issue,High
+TKT-1774,The product makes loud noise during normal operation,Product/Service Complaint,Medium
+TKT-1432,The returned product was lost in transit I still want refund,Refund Request,Low
+TKT-1420,My refund for COD order has not been transferred to bank,Refund Request,Medium
+TKT-1635,I want to close account but cannot login to do it,Account/Login Issue,Low
+TKT-1849,The service chat bot keeps giving irrelevant answers,Product/Service Complaint,High
+TKT-1392,Please refund the extra amount charged on my order. Please help urgently.,Refund Request,Medium
+TKT-1847,"Hi, i am unhappy with discriminatory treatment at service center",Product/Service Complaint,Low
+TKT-1187,Items are missing from my delivered order box,Order Issue,High
+TKT-1020,Payment gateway timed out but amount was deducted,Payment Issue,Low
+TKT-1384,I need refund for subscription cancelled at start of month,Refund Request,High
+TKT-1192,The order was marked delivered to my neighbor without consent,Order Issue,High
+TKT-1615,I cannot complete KYC verification on my account This is very disappointing.,Account/Login Issue,Medium
+TKT-1636,"Hi, i want to close account but cannot login to do it",Account/Login Issue,Low
+TKT-1789,The product color fades after first wash completely,Product/Service Complaint,Low
+TKT-1459,My partial refund was processed without explaining calculation,Refund Request,Low
+TKT-1845,I am unhappy with discriminatory treatment at service center,Product/Service Complaint,Low
+TKT-1629,My work account credentials stopped working after domain change,Account/Login Issue,Medium
+TKT-1407,I need refund for service not delivered as promised,Refund Request,Medium
+TKT-1798,The item has sharp edges that caused minor injury,Product/Service Complaint,High
+TKT-1787,The item overheats dangerously during regular use,Product/Service Complaint,Medium
+TKT-1028,I paid through EMI but order shows as unpaid This is very disappointing.,Payment Issue,Medium
+TKT-1386,The product broke within warranty period I want full refund. Please help urgently.,Refund Request,Low
+TKT-1821,The service callback promised within hour never happened,Product/Service Complaint,High
+TKT-1087,My payment for bulk order was partially processed only,Payment Issue,Medium
+TKT-1612,The login with Facebook option stopped working suddenly,Account/Login Issue,Low
+TKT-1177,My order is delayed since 5 days with no update This is very disappointing.,Order Issue,Low
+TKT-1833,The product app requires permissions that seem unnecessary,Product/Service Complaint,Medium
+TKT-1026,I paid through EMI but order shows as unpaid,Payment Issue,Medium
+TKT-1558,My login credentials are correct but access is denied,Account/Login Issue,Medium
+TKT-1241,"Hi, my order is held at customs with no further updates",Order Issue,Low
+TKT-1802,I am disappointed that premium product feels cheap,Product/Service Complaint,High
+TKT-1827,The product motor makes grinding sound from first use. Please help urgently.,Product/Service Complaint,Low
+TKT-1762,I received a counterfeit product this is unacceptable,Product/Service Complaint,Low
+TKT-1387,"Hi, the product broke within warranty period I want full refund",Refund Request,Low
+TKT-1768,My complaint from last week has not been addressed yet,Product/Service Complaint,Low
+TKT-1179,My order status has not changed for a week,Order Issue,High
+TKT-1622,My account shows duplicate profiles after migration,Account/Login Issue,Low
+TKT-1091,The checkout page charged me after I clicked cancel,Payment Issue,Low
+TKT-1804,I am disappointed that premium product feels cheap This is very disappointing.,Product/Service Complaint,High
+TKT-1242,I want to add items to my existing pending order,Order Issue,Medium
+TKT-1406,My refund to wallet was done but I want it in bank account This is very disappointing.,Refund Request,Low
+TKT-1754,"Hi, the product quality is very poor and not as described",Product/Service Complaint,Low
+TKT-1049,"Hi, i was overcharged for the premium plan upgrade",Payment Issue,Low
+TKT-1178,I received the wrong item in my order package,Order Issue,Medium
+TKT-1372,I want a full refund because the product never arrived,Refund Request,Low
+TKT-1413,I need refund for gift order that recipient rejected,Refund Request,Low
+TKT-1366,I want a refund for my damaged product received yesterday,Refund Request,Low
+TKT-1063,My transaction ID 8834521 shows success but no order confirmation email,Payment Issue,Medium
+TKT-1829,The product motor makes grinding sound from first use This is very disappointing.,Product/Service Complaint,Low
+TKT-1221,My order was left outside in rain and products are wet,Order Issue,Low
+TKT-1220,The delivery agent could not find my address,Order Issue,High
+TKT-1391,Please refund the extra amount charged on my order,Refund Request,Medium
+TKT-1773,"Hi, i am disappointed with build quality of expensive item",Product/Service Complaint,Low
+TKT-1836,The service warranty inspection report was inaccurate,Product/Service Complaint,Low
+TKT-1843,The service provider used non genuine parts during repair,Product/Service Complaint,Medium
+TKT-1803,I am disappointed that premium product feels cheap. Please help urgently.,Product/Service Complaint,High
+TKT-1183,I placed an order but never got a confirmation email,Order Issue,High
+TKT-1460,My partial refund was processed without explaining calculation. Please help urgently.,Refund Request,Low
+TKT-1792,The product color fades after first wash completely This is very disappointing.,Product/Service Complaint,Low
+TKT-1195,"Hi, my express order is taking longer than standard delivery",Order Issue,Low
+TKT-1431,I need refund for installation service that was never done,Refund Request,High
+TKT-1243,The order shows delivered but security did not receive it,Order Issue,High
+TKT-1632,I cannot add secondary email for account recovery,Account/Login Issue,Medium
+TKT-1035,My payment is showing as failed on your website but bank says success,Payment Issue,Low
+TKT-1434,I want refund for membership auto renewed without consent,Refund Request,Medium
+TKT-1031,"Hi, i need help with a failed transaction reference number TXN4521",Payment Issue,Low
+TKT-1752,The product quality is very poor and not as described,Product/Service Complaint,Low
+TKT-1813,I am unhappy with lack of accountability from service team,Product/Service Complaint,Low
+TKT-1605,I need help setting up new password after security breach,Account/Login Issue,Medium
+TKT-1633,I cannot add secondary email for account recovery. Please help urgently.,Account/Login Issue,Medium
+TKT-1011,My card was charged but I got an error during checkout,Payment Issue,Low
+TKT-1247,The order invoice inside package has wrong billing details,Order Issue,High
+TKT-1593,I need to transfer account ownership to my business partner,Account/Login Issue,High
+TKT-1189,Items are missing from my delivered order box This is very disappointing.,Order Issue,High
+TKT-1614,I cannot complete KYC verification on my account. Please help urgently.,Account/Login Issue,Medium
+TKT-1062,The payment link I received is not working anymore,Payment Issue,Low
+TKT-1397,I need partial refund for missing items in my delivery,Refund Request,Medium
+TKT-1430,My refund case was closed without resolving the issue This is very disappointing.,Refund Request,Medium
+TKT-1390,I want refund for item that was out of stock after payment,Refund Request,Low
+TKT-1563,I cannot login after updating my phone number,Account/Login Issue,Medium
+TKT-1607,I cannot link my payment method to account profile,Account/Login Issue,Low
+TKT-1233,I need to reschedule delivery for my pending order,Order Issue,Medium
+TKT-1176,"Hi, my order is delayed since 5 days with no update",Order Issue,Low
+TKT-1561,My account was hacked please secure it immediately,Account/Login Issue,Low
+TKT-1623,I want to enable login alerts for suspicious activity,Account/Login Issue,Medium
+TKT-1595,I cannot register new account says email already exists,Account/Login Issue,Medium
+TKT-1588,My account shows wrong name and delivery address,Account/Login Issue,Low
+TKT-1616,My account password meets requirements but still rejected,Account/Login Issue,High
+TKT-1085,I need to update payment after failed transaction attempt,Payment Issue,Low
+TKT-1447,The refund policy page says instant but I am waiting weeks,Refund Request,Medium
+TKT-1409,I want refund for annual plan after using only one month,Refund Request,Low
+TKT-1066,I was charged a convenience fee that was not mentioned earlier,Payment Issue,High
+TKT-1065,My transaction ID 8834521 shows success but no order confirmation email This is very disappointing.,Payment Issue,Medium
+TKT-1438,I need refund for international order returned due to customs,Refund Request,Medium
+TKT-1775,Your live chat support disconnected without resolving issue,Product/Service Complaint,High
+TKT-1414,"Hi, i need refund for gift order that recipient rejected",Refund Request,Low
+TKT-1044,Payment page froze after entering OTP and money was taken,Payment Issue,Low
+TKT-1769,The product battery drains within one hour of full charge,Product/Service Complaint,Medium
+TKT-1626,I cannot login from abroad due to region restriction. Please help urgently.,Account/Login Issue,Low
+TKT-1197,The order quantity received is less than what I ordered,Order Issue,High
+TKT-1030,I need help with a failed transaction reference number TXN4521,Payment Issue,Low
+TKT-1196,I want to modify my order before it ships,Order Issue,Medium
+TKT-1231,My order contains expired products inside the package. Please help urgently.,Order Issue,Low
+TKT-1606,The account settings page is blank when I open it,Account/Login Issue,High
+TKT-1581,"Hi, the login page keeps redirecting me in a loop",Account/Login Issue,Low
+TKT-1010,The amount deducted is different from the order total,Payment Issue,High
+TKT-1416,I returned item within return window but refund delayed,Refund Request,High
+TKT-1239,The delivery was attempted but nobody called my phone,Order Issue,High
+TKT-1557,I cannot verify my account the OTP never arrives,Account/Login Issue,Low
+TKT-1001,My payment was deducted but order is not confirmed,Payment Issue,Low
+TKT-1437,My refund request keeps getting auto closed by system,Refund Request,Low
+TKT-1442,"Hi, i want refund for booking cancelled within free cancellation period",Refund Request,Low
+TKT-1083,I was charged for warranty add on that I did not select. Please help urgently.,Payment Issue,Medium
+TKT-1265,I cannot find my order in the app after payment,Order Issue,Medium
+TKT-1598,I want to download all personal data from my account,Account/Login Issue,Low
+TKT-1825,The service invoice had hidden charges not discussed before,Product/Service Complaint,High
+TKT-1650,I cannot complete signup at final step it freezes,Account/Login Issue,Medium
+TKT-1570,My username is not recognized on the login page,Account/Login Issue,Low
+TKT-1226,The order tracking shows in transit for two weeks This is very disappointing.,Order Issue,High
+TKT-1055,The coupon code payment failed but discount was not restored,Payment Issue,Medium
+TKT-1425,I need refund for add on service that was never provided,Refund Request,Medium
+TKT-1092,Payment verification is taking too long for my order,Payment Issue,Medium
+TKT-1422,The refund email said seven days but it has been twenty,Refund Request,Low
+TKT-1782,"Hi, i am frustrated with repeated product failures under warranty",Product/Service Complaint,Low
+TKT-1002,My payment was deducted but order is not confirmed. Please help urgently.,Payment Issue,Low
+TKT-1811,The service staff damaged my property during installation,Product/Service Complaint,Medium
+TKT-1081,Payment successful message appeared but cart is still full,Payment Issue,Low
+TKT-1388,I paid for express delivery that failed please refund shipping fee,Refund Request,Medium
+TKT-1783,The service quality has declined significantly this year,Product/Service Complaint,Medium
+TKT-1850,The product camera quality is far below specifications,Product/Service Complaint,Low
+TKT-1807,My formal complaint email received only automated response,Product/Service Complaint,High
+TKT-1579,I want to disable two factor auth I lost my phone,Account/Login Issue,High
+TKT-1756,The item stopped working after just two days of use,Product/Service Complaint,Medium
+TKT-1788,The service contract promises were not fulfilled at all,Product/Service Complaint,High
+TKT-1059,"Hi, i paid the remaining balance but order still shows partial payment",Payment Issue,Low
+TKT-1006,Payment failed but money was debited from my account,Payment Issue,High
+TKT-1449,I want refund for digital download that does not work,Refund Request,High
+TKT-1202,I cannot track my order the tracking link is broken,Order Issue,High
+TKT-1436,Please refund handling charges for cancelled order. Please help urgently.,Refund Request,High
+TKT-1405,"Hi, my refund to wallet was done but I want it in bank account",Refund Request,Low
+TKT-1757,I am unhappy with the service provided by your support team,Product/Service Complaint,High
+TKT-1269,"Hi, my international order is delayed at sorting facility",Order Issue,Low
+TKT-1271,The delivery partner updated wrong status on my order,Order Issue,High
+TKT-1033,I was charged for shipping even though I had free delivery,Payment Issue,High
+TKT-1556,I am not receiving the password reset email,Account/Login Issue,High
+TKT-1839,Your complaint form submission fails with unknown error,Product/Service Complaint,High
+TKT-1810,"Hi, the item leaks water all over my floor when used",Product/Service Complaint,Low
+TKT-1781,I am frustrated with repeated product failures under warranty,Product/Service Complaint,Low
+TKT-1079,I received payment failure SMS but amount was debited,Payment Issue,Medium
+TKT-1057,I paid the remaining balance but order still shows partial payment,Payment Issue,Low
+TKT-1025,The discount was not applied but full amount was charged,Payment Issue,Low
+TKT-1047,The COD to prepaid conversion payment was not reflected,Payment Issue,High
+TKT-1418,I returned item within return window but refund delayed This is very disappointing.,Refund Request,High
+TKT-1426,Please refund my order because item was recalled by manufacturer,Refund Request,High
+TKT-1071,I paid using gift card and credit card but only gift card was applied. Please help urgently.,Payment Issue,High
+TKT-1637,The login session expires while I am filling long forms,Account/Login Issue,Medium
+TKT-1779,The service appointment was rescheduled three times already This is very disappointing.,Product/Service Complaint,Medium
+TKT-1370,Please process my refund it has been pending for two weeks,Refund Request,Medium
+TKT-1464,I want refund for gift card purchase made by mistake,Refund Request,Low
+TKT-1385,The product broke within warranty period I want full refund,Refund Request,Low
+TKT-1465,Please refund tax amount for tax exempt organization order,Refund Request,Medium
+TKT-1208,My scheduled delivery was missed twice this week,Order Issue,Low
+TKT-1441,I want refund for booking cancelled within free cancellation period. Please help urgently.,Refund Request,Low
+TKT-1826,The product motor makes grinding sound from first use,Product/Service Complaint,Low
+TKT-1200,The delivery date keeps getting postponed every day. Please help urgently.,Order Issue,Medium
+TKT-1844,The product fan is louder than advertised noise level,Product/Service Complaint,High
+TKT-1793,I am unhappy with misleading advertising of product features,Product/Service Complaint,Medium
+TKT-1074,I need assistance with a duplicate payment on order 78234,Payment Issue,High
+TKT-1400,I want refund for event ticket as event was cancelled,Refund Request,Low
+TKT-1580,The login page keeps redirecting me in a loop,Account/Login Issue,Low
+TKT-1368,"Hi, i want a refund for my damaged product received yesterday",Refund Request,Low
+TKT-1421,I want refund for software license that never activated,Refund Request,High
+TKT-1586,The SSO login with company email is failing,Account/Login Issue,Medium
+TKT-1627,"Hi, i cannot login from abroad due to region restriction",Account/Login Issue,Low
+TKT-1631,The email verification link opens error page,Account/Login Issue,Low
+TKT-1618,"Hi, i need to update date of birth on locked account",Account/Login Issue,Low
+TKT-1456,The refund team asked for proof I already submitted twice,Refund Request,Low
+TKT-1182,My order was cancelled without any notification. Please help urgently.,Order Issue,Medium
+TKT-1034,I was charged for shipping even though I had free delivery. Please help urgently.,Payment Issue,High
+TKT-1211,My order ID 45231 is not showing in order history,Order Issue,Low
+TKT-1371,I returned the item but refund has not been credited yet,Refund Request,High
+TKT-1235,My replacement order has not been created yet,Order Issue,Low
+TKT-1834,The product app requires permissions that seem unnecessary. Please help urgently.,Product/Service Complaint,Medium
+TKT-1191,I received an empty package instead of my order,Order Issue,Medium
+TKT-1029,My payment was declined but money got deducted,Payment Issue,High
+TKT-1240,My order is held at customs with no further updates,Order Issue,Low
+TKT-1601,I cannot access premium features despite active subscription,Account/Login Issue,High
+TKT-1819,"Hi, the item fabric quality is terrible for the price paid",Product/Service Complaint,Low
+TKT-1451,"Hi, please refund loyalty points used along with cash payment",Refund Request,Low
+TKT-1603,I cannot access premium features despite active subscription This is very disappointing.,Account/Login Issue,High
+TKT-1851,My complaint about false labeling has seen no action,Product/Service Complaint,Medium
+TKT-1212,My order ID 45231 is not showing in order history. Please help urgently.,Order Issue,Low
+TKT-1815,The product charger gets extremely hot while charging. Please help urgently.,Product/Service Complaint,Medium
+TKT-1402,I received used product and want immediate refund,Refund Request,High
+TKT-1761,The product does not match the images shown on website,Product/Service Complaint,High
+TKT-1846,I am unhappy with discriminatory treatment at service center. Please help urgently.,Product/Service Complaint,Low
+TKT-1790,The product color fades after first wash completely. Please help urgently.,Product/Service Complaint,Low
+TKT-1439,The product stopped working in two days please refund,Refund Request,High
+TKT-1088,I was charged late payment fee even though I paid on time,Payment Issue,High
+TKT-1763,"Hi, i received a counterfeit product this is unacceptable",Product/Service Complaint,Low
+TKT-1562,"Hi, my account was hacked please secure it immediately",Account/Login Issue,Low
+TKT-1037,I made a payment using PayPal but order is not confirmed,Payment Issue,High
+TKT-1582,I cannot update my profile information it shows error,Account/Login Issue,Medium
+TKT-1600,The login OTP expires too quickly before I can enter it,Account/Login Issue,Medium
+TKT-1822,The service callback promised within hour never happened. Please help urgently.,Product/Service Complaint,High
+TKT-1210,The order packaging was damaged during transit,Order Issue,High
+TKT-1594,The mobile app logout happens automatically every few minutes,Account/Login Issue,Low
+TKT-1181,My order was cancelled without any notification,Order Issue,Medium
+TKT-1255,I want to know why my order is on hold,Order Issue,Medium
+TKT-1263,The order was picked up by wrong person at doorstep This is very disappointing.,Order Issue,High
+TKT-1084,The payment did not go through but my bank limit was blocked,Payment Issue,High
+TKT-1260,I need proof of delivery for my recent order,Order Issue,Medium
+TKT-1576,My account verification document was rejected please help,Account/Login Issue,Medium
+TKT-1398,The refund was processed but not reflected in my bank account,Refund Request,High
+TKT-1806,The product WiFi connection drops constantly without fix,Product/Service Complaint,Medium
+TKT-1799,The service repair took one month and issue returned immediately,Product/Service Complaint,Low
+TKT-1052,Bank statement shows debit but your app shows payment pending. Please help urgently.,Payment Issue,High
+TKT-1830,My complaint about hygiene standards was ignored completely,Product/Service Complaint,Medium
+TKT-1796,Your complaint escalation process seems completely broken,Product/Service Complaint,Medium
+TKT-1222,"Hi, my order was left outside in rain and products are wet",Order Issue,Low
+TKT-1646,"Hi, i cannot access wallet balance after account merge attempt",Account/Login Issue,Low
+TKT-1190,My order is stuck at warehouse for many days,Order Issue,Low
+TKT-1589,My account shows wrong name and delivery address. Please help urgently.,Account/Login Issue,Low
+TKT-1024,My wallet balance was used without my confirmation,Payment Issue,High
+TKT-1036,Please verify my payment for order placed last night,Payment Issue,Medium
+TKT-1611,I want to remove unauthorized device from my account,Account/Login Issue,High
+TKT-1099,I was billed twice for the same subscription month,Payment Issue,Low
+TKT-1461,"Hi, my partial refund was processed without explaining calculation",Refund Request,Low
+TKT-1259,"Hi, my order for birthday gift will miss the event date",Order Issue,Low
+TKT-1567,My account shows suspended without any reason given,Account/Login Issue,Low
+TKT-1572,"Hi, my username is not recognized on the login page",Account/Login Issue,Low
+TKT-1776,The item smells like chemicals and seems unsafe to use,Product/Service Complaint,Low
+TKT-1224,The order tracking shows in transit for two weeks,Order Issue,High
+TKT-1448,The refund policy page says instant but I am waiting weeks. Please help urgently.,Refund Request,Medium
+TKT-1041,The auto debit for my subscription happened twice this month This is very disappointing.,Payment Issue,Low
+TKT-1267,My international order is delayed at sorting facility,Order Issue,Low
+TKT-1064,My transaction ID 8834521 shows success but no order confirmation email. Please help urgently.,Payment Issue,Medium
+TKT-1440,I want refund for booking cancelled within free cancellation period,Refund Request,Low
+TKT-1401,Please refund my order cancelled by seller without notice,Refund Request,Medium
+TKT-1624,The account recovery form submission fails every time,Account/Login Issue,High
+TKT-1023,I was charged sales tax incorrectly on my order,Payment Issue,Medium
+TKT-1765,The product manual is missing and setup is impossible,Product/Service Complaint,High
+TKT-1209,I need to change delivery time for my pending order,Order Issue,Medium
+TKT-1560,I need to change the email address linked to my account,Account/Login Issue,High
+TKT-1250,"Hi, my pre order item release date was changed without notice",Order Issue,Low
+TKT-1785,The product dimensions are wrong and do not fit my space. Please help urgently.,Product/Service Complaint,High
+TKT-1257,The tracking page says exception what does that mean for my order,Order Issue,High
+TKT-1050,My payment method was charged but order ID was never generated,Payment Issue,Medium
+TKT-1268,My international order is delayed at sorting facility. Please help urgently.,Order Issue,Low
+TKT-1832,The service engineer left mess after repair visit,Product/Service Complaint,Low
+TKT-1842,The item paint started peeling within a week,Product/Service Complaint,Low
+TKT-1246,I need help with order placed using wrong account,Order Issue,Medium
+TKT-1641,My account shows someone else recent activity,Account/Login Issue,Low
+TKT-1184,The order shows shipped but tracking has no updates,Order Issue,Low
+TKT-1080,My card ending 4521 was charged without my authorization,Payment Issue,High
+TKT-1816,The product charger gets extremely hot while charging This is very disappointing.,Product/Service Complaint,Medium
+TKT-1248,My pre order item release date was changed without notice,Order Issue,Low
+TKT-1835,I am disappointed with durability of so called premium line,Product/Service Complaint,High
+TKT-1608,I cannot link my payment method to account profile. Please help urgently.,Account/Login Issue,Low
+TKT-1082,I was charged for warranty add on that I did not select,Payment Issue,Medium
+TKT-1764,The customer service agent was rude during my call,Product/Service Complaint,Medium
+TKT-1639,I cannot verify phone number OTP says invalid code. Please help urgently.,Account/Login Issue,High
+TKT-1004,My payment was deducted but order is not confirmed This is very disappointing.,Payment Issue,Low
+TKT-1797,Your complaint escalation process seems completely broken. Please help urgently.,Product/Service Complaint,Medium
+TKT-1766,The product manual is missing and setup is impossible. Please help urgently.,Product/Service Complaint,High
+TKT-1216,The courier refused to deliver to my apartment floor,Order Issue,High
+TKT-1552,I forgot my password and cannot login to my account. Please help urgently.,Account/Login Issue,Low
+TKT-1395,My refund request reference number RF8834 has no updates,Refund Request,Low
+TKT-1186,My package was sent to the wrong delivery address,Order Issue,Medium
+TKT-1380,I want a refund for wrong item sent in my order. Please help urgently.,Refund Request,High
+TKT-1838,The product buttons are unresponsive after minimal use,Product/Service Complaint,Medium
+TKT-1610,My account was deactivated please reactivate it,Account/Login Issue,Medium
+TKT-1583,My account email was changed without my permission,Account/Login Issue,High
+TKT-1617,I need to update date of birth on locked account,Account/Login Issue,Low
+TKT-1175,My order is delayed since 5 days with no update. Please help urgently.,Order Issue,Low
+TKT-1453,I need refund for warranty replacement that never arrived,Refund Request,High
+TKT-1014,I was billed for an item I removed from my cart,Payment Issue,High
+TKT-1559,My login credentials are correct but access is denied. Please help urgently.,Account/Login Issue,Medium
+TKT-1424,"Hi, the refund email said seven days but it has been twenty",Refund Request,Low
+TKT-1193,My express order is taking longer than standard delivery,Order Issue,Low
+TKT-1185,"Hi, the order shows shipped but tracking has no updates",Order Issue,Low
+TKT-1048,I was overcharged for the premium plan upgrade,Payment Issue,Low
+TKT-1016,I was billed for an item I removed from my cart This is very disappointing.,Payment Issue,High
+TKT-1017,Why was I charged after cancelling my order,Payment Issue,Low
+TKT-1382,Please initiate refund for duplicate order placed by mistake,Refund Request,Low
+TKT-1553,"Hi, i forgot my password and cannot login to my account",Account/Login Issue,Low
+TKT-1045,I need a payment receipt for my recent purchase,Payment Issue,Medium
+TKT-1445,My refund was sent to expired card need alternative method,Refund Request,High
+TKT-1808,The item leaks water all over my floor when used,Product/Service Complaint,Low
+TKT-1848,The item stitching came apart on first wear,Product/Service Complaint,Medium
+TKT-1597,My account recovery phone number is no longer active,Account/Login Issue,High
+TKT-1053,Bank statement shows debit but your app shows payment pending This is very disappointing.,Payment Issue,High
+TKT-1628,I cannot login from abroad due to region restriction This is very disappointing.,Account/Login Issue,Low
+TKT-1072,The payment summary page showed wrong total at checkout,Payment Issue,Low
+TKT-1188,Items are missing from my delivered order box. Please help urgently.,Order Issue,High
+TKT-1199,The delivery date keeps getting postponed every day,Order Issue,Medium
+TKT-1214,My order ID 45231 is not showing in order history This is very disappointing.,Order Issue,Low
+TKT-1630,I need to reset security questions on my account,Account/Login Issue,High
+TKT-1013,Payment is stuck on processing for the last two hours,Payment Issue,Medium
+TKT-1058,I paid the remaining balance but order still shows partial payment. Please help urgently.,Payment Issue,Low
+TKT-1578,My account verification document was rejected please help This is very disappointing.,Account/Login Issue,Medium

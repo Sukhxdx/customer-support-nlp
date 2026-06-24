@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Model artifacts (auto-trained on first app run or via train.py)
+models/*.pkl
+models/*.joblib
+models/training_metrics.json
+!models/.gitkeep
+
+# Generated evaluation figures (screenshots/ has committed copies for README)
+reports/figures/*.png
+reports/figures/*.jpg
+!reports/figures/.gitkeep
+
+# Streamlit logs
+logs/
